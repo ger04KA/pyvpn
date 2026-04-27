@@ -1,0 +1,10 @@
+#profile-title: 🛜 PyVPN by @pyman_tut 
+#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает
+#profile-update-interval: 6
+#support-url: https://t.me/pyman_tut
+#profile-web-page-url: https://t.me/pyman_tut
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyUERacHVKQXFJd05sejQ2TjhzUDBR@89.169.38.181:1080?prefix=%17%03%03#🇷🇺Russia
+ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:443?prefix=%17%03%03#🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3RUFzb3JiazhUYkNjOUNWQV9yd3hB@89.23.98.203:8388?prefix=%17%03%03#🇷🇺Russia
+ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:443?prefix=%17%03%03#🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3RUFzb3JiazhUYkNjOUNWQV9yd3hB@89.23.98.203:8388?prefix=%17%03%03#🇷🇺Russia
