@@ -1,14 +1,5 @@
-# ⚠️ ПОДПИСКА ИСТЕКЛА
-
-Ваша подписка на Py.VPN закончилась.
-
-Для продления подписки:
-👉 Перейдите в бот: @pyvpn_robot
-👉 Выберите подходящий тариф
-👉 Оплатите и получите доступ
-
-После оплаты ваш конфиг автоматически обновится!
-
----
-🔰 Py.VPN - Быстрый и стабильный VPN
-💬 Поддержка: @pyvpn_sup
+#profile-title: 🛜 PyVPN by @pyman_tut 
+#announce: ⚠️ Подписка истекла, продлите в боте @pyvpn_robot
+#profile-update-interval: 1
+#support-url: https://t.me/pyman_tut
+#profile-web-page-url: https://t.me/pyman_tut
