@@ -3,11 +3,9 @@
 #profile-update-interval: 6
 #support-url: https://t.me/pyman_tut
 #profile-web-page-url: https://t.me/pyman_tut
-vless://5c00493b-12fd-4208-8da3-9ee245770abf@9.migconnect.ru:443?security=reality&encryption=none&echfq=none&pbk=dpt26Xaz3CmwQgm2Os1eEVUie3H-zauWQ23BH_cHtSM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=bc5984679150f3d3#🤖 Premium
+vless://5c00493b-12fd-4208-8da3-9ee245770abf@9.migconnect.ru:443?security=reality&encryption=none&echfq=none&pbk=dpt26Xaz3CmwQgm2Os1eEVUie3H-zauWQ23BH_cHtSM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=bc5984679150f3d3#Premium
 vless://5c00493b-12fd-4208-8da3-9ee245770abf@9.migconnect.ru:443?security=reality&encryption=none&echfq=none&pbk=dpt26Xaz3CmwQgm2Os1eEVUie3H-zauWQ23BH_cHtSM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=bc5984679150f3d3#🇳🇱 Нидерланды 1
 vless://5c00493b-12fd-4208-8da3-9ee245770abf@9.migconnect.ru:443?security=reality&encryption=none&echfq=none&pbk=dpt26Xaz3CmwQgm2Os1eEVUie3H-zauWQ23BH_cHtSM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=bc5984679150f3d3#🇳🇱 Нидерланды 2
 vless://5c00493b-12fd-4208-8da3-9ee245770abf@9.migconnect.ru:443?security=reality&encryption=none&echfq=none&pbk=dpt26Xaz3CmwQgm2Os1eEVUie3H-zauWQ23BH_cHtSM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=bc5984679150f3d3#🇳🇱 Нидерланды 3
 vless://5c00493b-12fd-4208-8da3-9ee245770abf@9.migconnect.ru:443?security=reality&encryption=none&echfq=none&pbk=dpt26Xaz3CmwQgm2Os1eEVUie3H-zauWQ23BH_cHtSM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=bc5984679150f3d3#🇳🇱 Нидерланды 4
 vless://bd280d88-164a-436b-ab28-4552da7ba783@158.160.46.191:443?security=reality&fragment=100-200,10-20,tlshello,100-200&encryption=none&pbk=PMSegML41So-j-eykh0j-iOL2FUSETIYUC3DxBQ821k&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c4e85bc9#🇩🇪 Германия Обход Б/С
-vless://TMG_3b9b0ce46f8@193.202.10.86:443?type=xhttp&encryption=none&path=%2FcUs11CZnpMsr&host=amazon.com&mode=auto&security=reality&fp=chrome&pbk=QCXzfWBs2jO2SX3C-P_NWdJDxjvHk1Mw--03_PoUpTw&sni=amazon.com&sid=fbaca6693f&spx=%2F#🇩🇪 Германия
-trojan://162534@195.123.209.7:8443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=cchh2.pages.dev&fp=chrome&allowinsecure=1&type=ws&sni=cchh2.pages.dev#🏴‍☠️ Обход всего
