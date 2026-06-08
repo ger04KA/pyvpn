@@ -3,10 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/pyman_tut
 #profile-web-page-url: https://t.me/pyman_tut
-vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@ss.1kub1.click:2083?security=reality&encryption=none&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=id.vk.com#SPORT KEY
-vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@ns.1kub1.click:2096?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#WorldKey
-vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@1kub1.click:2083?security=reality&encryption=none&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=id.vk.com#Ultra
-vless://1a96000b-a14d-405a-b5b1-f14b9366a279@wifi-grpc.realityanti-vpn.xyz:603?mode=gun&security=reality&encryption=none&authority=&pbk=WEoZRaQvvs9EYMij8-CzaMx1687u_yuk39FUMTMXACo&fp=edge&allowinsecure=0&type=grpc&serviceName=&sni=www.amd.com&sid=0da0e140#🇳🇱 Нидерланды (Wi-Fi) 1
+vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@194.58.41.134:44444?mode=auto&path=%2F&security=reality&encryption=none&pbk=t7zppcy4X6f3INaKOTOX6hsc84UoykNlRiKYKkA-TXo&fp=firefox&spx=%2F&type=xhttp&sni=apple.com#%F0%9F%87%A9%F0%9F%87%AA%20WorldKey
 vless://1a96000b-a14d-405a-b5b1-f14b9366a279@wifir-grpc.realityanti-vpn.xyz:603?mode=gun&security=reality&encryption=none&authority=&pbk=WEoZRaQvvs9EYMij8-CzaMx1687u_yuk39FUMTMXACo&fp=edge&allowinsecure=0&type=grpc&serviceName=&sni=www.amd.com&sid=0da0e140#🇳🇱 Нидерланды (Wi-Fi) 2
 vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifi-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=32d6b1bf#🇳🇱 Нидерланды (Wi-Fi) 3
 vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifir-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=32d6b1bf#🇳🇱 Нидерланды (Wi-Fi) 4
