@@ -4,10 +4,6 @@
 #support-url: https://t.me/pyman_tut
 #profile-web-page-url: https://t.me/pyman_tut
 vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@194.58.41.134:44444?mode=auto&path=%2F&security=reality&encryption=none&pbk=t7zppcy4X6f3INaKOTOX6hsc84UoykNlRiKYKkA-TXo&fp=firefox&spx=%2F&type=xhttp&sni=apple.com#%F0%9F%87%A9%F0%9F%87%AA%20WorldKey
-vless://1a96000b-a14d-405a-b5b1-f14b9366a279@wifir-grpc.realityanti-vpn.xyz:603?mode=gun&security=reality&encryption=none&authority=&pbk=WEoZRaQvvs9EYMij8-CzaMx1687u_yuk39FUMTMXACo&fp=edge&allowinsecure=0&type=grpc&serviceName=&sni=www.amd.com&sid=0da0e140#🇳🇱 Нидерланды (Wi-Fi) 2
-vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifi-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=32d6b1bf#🇳🇱 Нидерланды (Wi-Fi) 3
-vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifir-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=32d6b1bf#🇳🇱 Нидерланды (Wi-Fi) 4
-vless://570dc354-2960-4091-8a8c-de09fe7f580f@frog.nalognolife.fun:10004?path=%2Ffi&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE+Finland
-vless://570dc354-2960-4091-8a8c-de09fe7f580f@91.184.242.118:52315?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1+Netherlands
-vless://570dc354-2960-4091-8a8c-de09fe7f580f@5.175.249.199:52315?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany
-vless://570dc354-2960-4091-8a8c-de09fe7f580f@37.252.11.92:443?security=reality&encryption=none&pbk=WtdwHlJ5Lc1BNeqNwYzlD_2CSi2phWzkoIbjkIuNa1Y&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e4d7a1c89b2f3560#%F0%9F%87%B5%F0%9F%87%B1+Poland++%28%D0%A0%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA%D1%81%29
+vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifi-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=32d6b1bf#🇳🇱 Нидерланды (Wi-Fi) 1
+vless://d8e14ac8-6dbd-464a-af47-f1d55bde2cb7@wifir-grpc.realityanti-vpn.xyz:603?mode=gun&security=reality&encryption=none&authority=&pbk=nqktNytGQYrtV2rDAWl0hxXXca30tb8Ii0TpK5bmwUY&fp=edge&allowinsecure=0&type=grpc&serviceName=&sni=www.amd.com&sid=df1e8229#🇳🇱 Нидерланды (Wi-Fi) 2
+vless://49caa9cb-71d4-4bdd-a50b-9a1b2793d495@wifir-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=h_d-Uq1133QmGChyUvy8tUUq_Aw_B0EIHyie-6Jjbhk&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=aae02035#🇳🇱 Нидерланды (Wi-Fi) 3
