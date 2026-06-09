@@ -7,7 +7,5 @@ vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@194.58.41.134:44444?mode=auto&path=
 vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifi-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=32d6b1bf#🇳🇱 Нидерланды (Wi-Fi) 1
 vless://1a96000b-a14d-405a-b5b1-f14b9366a279@wifi2-grpc.realityanti-vpn.xyz:603?mode=gun&security=reality&encryption=none&authority=&pbk=WEoZRaQvvs9EYMij8-CzaMx1687u_yuk39FUMTMXACo&fp=edge&allowinsecure=0&type=grpc&serviceName=&sni=www.amd.com&sid=0da0e140#🇳🇱 Нидерланды (Wi-Fi) 2
 vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifi2-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=32d6b1bf#🇳🇱 Нидерланды (Wi-Fi) 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@72.56.37.24:51523?prefix=%17%03%03#🇳🇱 Нидерланды 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYzNUTlljdWZIcFJPVlg0QjJkc1Rv@5.253.59.156:32140?prefix=%17%03%03#🇳🇱 Нидерланды 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cy1oOVR5TjN4RTIxbnR0OG9zZlZn@45.67.139.93:1080?prefix=%17%03%03#🇫🇷 Франция
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYzNUTlljdWZIcFJPVlg0QjJkc1Rv@5.253.59.156:32140?prefix=%17%03%03#🇳🇱 Нидерланды
 trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@193.163.85.39:443?path=%2Fvpn&security=tls&allowinsecure=0&type=ws&sni=platyscelis.duckdns.org#SECRET
