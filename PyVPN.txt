@@ -5,7 +5,9 @@
 #profile-web-page-url: https://t.me/pyman_tut
 vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@194.58.41.134:44444?mode=auto&path=%2F&security=reality&encryption=none&pbk=t7zppcy4X6f3INaKOTOX6hsc84UoykNlRiKYKkA-TXo&fp=firefox&spx=%2F&type=xhttp&sni=apple.com#%F0%9F%87%A9%F0%9F%87%AA%20WorldKey
 vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifi-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=32d6b1bf#🇳🇱 Нидерланды (Wi-Fi) 1
-vless://d8e14ac8-6dbd-464a-af47-f1d55bde2cb7@wifir-grpc.realityanti-vpn.xyz:603?mode=gun&security=reality&encryption=none&authority=&pbk=nqktNytGQYrtV2rDAWl0hxXXca30tb8Ii0TpK5bmwUY&fp=edge&allowinsecure=0&type=grpc&serviceName=&sni=www.amd.com&sid=df1e8229#🇳🇱 Нидерланды (Wi-Fi) 2
-vless://49caa9cb-71d4-4bdd-a50b-9a1b2793d495@wifir-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=h_d-Uq1133QmGChyUvy8tUUq_Aw_B0EIHyie-6Jjbhk&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=aae02035#🇳🇱 Нидерланды (Wi-Fi) 3
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@144.31.230.72:47200?security=reality&encryption=none&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=b2a9bd658fc81dc6#🇸🇪 Швеция
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@152.114.193.11:47200?security=reality&encryption=none&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=b2a9bd658fc81dc6#🇬🇧 Великобритания
+vless://1a96000b-a14d-405a-b5b1-f14b9366a279@wifi2-grpc.realityanti-vpn.xyz:603?mode=gun&security=reality&encryption=none&authority=&pbk=WEoZRaQvvs9EYMij8-CzaMx1687u_yuk39FUMTMXACo&fp=edge&allowinsecure=0&type=grpc&serviceName=&sni=www.amd.com&sid=0da0e140#🇳🇱 Нидерланды (Wi-Fi) 2
+vless://a57d16f0-b959-4481-8767-c9f5acda86e9@wifi2-xhttp.realityanti-vpn.xyz:678?mode=auto&path=%2F&security=reality&encryption=none&pbk=n6fcB9QRuFYAJOjIb3FQwCo6xyj2wihW5VpcSm1zHEs&fp=edge&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=32d6b1bf#🇳🇱 Нидерланды (Wi-Fi) 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@72.56.37.24:51523?prefix=%17%03%03#🇳🇱 Нидерланды 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYzNUTlljdWZIcFJPVlg0QjJkc1Rv@5.253.59.156:32140?prefix=%17%03%03#🇳🇱 Нидерланды 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cy1oOVR5TjN4RTIxbnR0OG9zZlZn@45.67.139.93:1080?prefix=%17%03%03#🇫🇷 Франция
+trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@193.163.85.39:443?path=%2Fvpn&security=tls&allowinsecure=0&type=ws&sni=platyscelis.duckdns.org#SECRET
